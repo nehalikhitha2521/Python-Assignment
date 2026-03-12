@@ -1,0 +1,37 @@
+----- Candidate Profile -----
+Name: Neha
+Date of Birth: 25-06-2010
+Contact Number: 876556710
+Email: neha@email.com
+
+--- Education Details ---
+Degree: B.Tech
+University: GITAM University
+Year of Graduation: 2018
+CGPA: 9.5
+
+--- Work Experience ---
+Company Name: Infosys
+Job Role: Software Engineer
+Years of Experience: 6
+Skills: Python, Java
+Eligible for Senior Role
+
+----- Candidate Profile -----
+Name: Geetha
+Date of Birth: 26-02-2006
+Contact Number: 9854327891
+Email: geetha@email.com
+
+--- Education Details ---
+Degree: BSc Computer Science
+University: Andhra University
+Year of Graduation: 2021
+CGPA: 9.0
+
+--- Work Experience ---
+Company Name: TCS
+Job Role: Junior Developer
+Years of Experience: 2
+Skills: Python
+Eligible for Junior Role
